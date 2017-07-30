@@ -20,16 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/workspace/personal/yogurt/android/yogurt" value="4493354787000" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -40,11 +30,12 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
+      <component name="ProjectRootManager" version="2" default="true" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property name="last_opened_file_path" value="C:/developer/gomo/VLauncher" />
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -132,21 +123,11 @@
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
       </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\yangjiacheng\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
     </defaultProject>
   </component>
