@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscribe" />
       <item value="Pattern" />
       <item value="companion" />
       <item value="shadowed" />
@@ -50,7 +51,6 @@
       <item value="slot" />
       <item value="advert" />
       <item value="Shared" />
-      <item value="Mounted" />
     </histories>
   </component>
 </application>
