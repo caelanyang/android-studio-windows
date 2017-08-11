@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cur Aspect" />
+      <item value="Aspect" />
+      <item value="m Apply Aspect" />
       <item value="balloon" />
       <item value="LOOPME" />
       <item value="DANDELION" />
@@ -48,9 +51,6 @@
       <item value="metrics" />
       <item value="execution" />
       <item value="yield" />
-      <item value="dex" />
-      <item value="Monkey patches {@ link Context # get Class Loader () the application context class loader } in order to load classes from more than one dex file . The primary {@ code classes . dex } must contain the classes necessary for calling this class methods . Secondary dex files named classes 2. dex , classes 3. dex ... found in the application apk will be added to the classloader after first call to {@ link # install ( Context )}." />
-      <item value="Proxying" />
     </histories>
   </component>
 </application>
