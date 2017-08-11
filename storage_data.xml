@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Blur" />
       <item value="Cur Aspect" />
       <item value="Aspect" />
       <item value="m Apply Aspect" />
@@ -50,7 +51,6 @@
       <item value="locale" />
       <item value="metrics" />
       <item value="execution" />
-      <item value="yield" />
     </histories>
   </component>
 </application>
