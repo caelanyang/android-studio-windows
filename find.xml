@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[GOLauncherZ_Main] - ...\GOLauncherZ_Main\res'" />
-    <option name="defaultScopeName" value="Directory '[GOLauncherZ_Main] - ...\GOLauncherZ_Main\res'" />
+    <option name="customScope" value="Module 'GOLauncherZ_Main'" />
+    <option name="defaultScopeName" value="Module 'GOLauncherZ_Main'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[GOLauncherZ_Main] - ...\GOLauncherZ_Main\res'" />
+    <option name="SEARCH_SCOPE" value="Module 'GOLauncherZ_Main'" />
   </component>
 </application>
