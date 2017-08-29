@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Opaque" />
       <item value="heads - up" />
       <item value="sender" />
       <item value="Blur" />
@@ -50,7 +51,6 @@
       <item value="retval" />
       <item value="Statistics" />
       <item value="static" />
-      <item value="locale" />
     </histories>
   </component>
 </application>
