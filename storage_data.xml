@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EFFECT" />
       <item value="slide" />
       <item value="Slide" />
       <item value="obtain" />
@@ -50,7 +51,6 @@
       <item value="instantiate" />
       <item value="Relative" />
       <item value="Grid" />
-      <item value="translucent" />
     </histories>
   </component>
 </application>
