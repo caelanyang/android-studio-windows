@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
       <item value="implies" />
       <item value="ADILE" />
       <item value="REVERSE" />
@@ -50,7 +51,6 @@
       <item value="Interpolator" />
       <item value="synthesize" />
       <item value="valid" />
-      <item value="Hall" />
     </histories>
   </component>
 </application>
