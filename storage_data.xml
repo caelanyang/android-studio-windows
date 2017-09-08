@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets up the given animation to play at the same time as the animation supplied in the {@ link Animator Set # play ( Animator )} call that created this &lt; code &gt; Builder &lt;/ code &gt; object ." />
       <item value="retrieve" />
       <item value="implies" />
       <item value="ADILE" />
@@ -50,7 +51,6 @@
       <item value="CHANNEL" />
       <item value="Interpolator" />
       <item value="synthesize" />
-      <item value="valid" />
     </histories>
   </component>
 </application>
