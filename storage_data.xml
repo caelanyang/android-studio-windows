@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="In multiuser systems shows only on the owning user ' s window ." />
+      <item value="owning" />
+      <item value="transient" />
       <item value="GRANTED" />
       <item value="MODAL" />
       <item value="techniques" />
@@ -48,9 +51,6 @@
       <item value="Range" />
       <item value="resulet" />
       <item value="shuffle" />
-      <item value="retain" />
-      <item value="You haven ' t played games recently" />
-      <item value="italic" />
     </histories>
   </component>
 </application>
