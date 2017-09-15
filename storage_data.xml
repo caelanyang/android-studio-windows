@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MODAL" />
       <item value="techniques" />
       <item value="detached" />
       <item value="Sets up the given animation to play at the same time as the animation supplied in the {@ link Animator Set # play ( Animator )} call that created this &lt; code &gt; Builder &lt;/ code &gt; object ." />
@@ -50,7 +51,6 @@
       <item value="You haven ' t played games recently" />
       <item value="italic" />
       <item value="200" />
-      <item value="CHANNEL" />
     </histories>
   </component>
 </application>
