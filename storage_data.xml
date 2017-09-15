@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="KEYGUARD" />
       <item value="In multiuser systems shows only on the owning user ' s window ." />
       <item value="owning" />
       <item value="transient" />
@@ -50,7 +51,6 @@
       <item value="payload" />
       <item value="Range" />
       <item value="resulet" />
-      <item value="shuffle" />
     </histories>
   </component>
 </application>
