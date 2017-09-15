@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GRANTED" />
       <item value="MODAL" />
       <item value="techniques" />
       <item value="detached" />
@@ -50,7 +51,6 @@
       <item value="retain" />
       <item value="You haven ' t played games recently" />
       <item value="italic" />
-      <item value="200" />
     </histories>
   </component>
 </application>
