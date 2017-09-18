@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REVERSE" />
       <item value="Sprite Batch" />
       <item value="Texture" />
       <item value="Emitter" />
@@ -19,7 +20,6 @@
       <item value="retrieve" />
       <item value="implies" />
       <item value="ADILE" />
-      <item value="REVERSE" />
       <item value="EFFECT" />
       <item value="slide" />
       <item value="Slide" />
