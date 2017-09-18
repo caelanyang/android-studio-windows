@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Texture" />
       <item value="Emitter" />
       <item value="Particle" />
       <item value="Sprite" />
@@ -50,7 +51,6 @@
       <item value="project" />
       <item value="hierarchy" />
       <item value="antialias" />
-      <item value="Alias" />
     </histories>
   </component>
 </application>
