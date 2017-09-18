@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="dia" type="PLAIN_TEXT" />
+      <mapping ext="p" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
