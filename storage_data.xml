@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Particle" />
+      <item value="Sprite" />
+      <item value="Batch" />
       <item value="KEYGUARD" />
       <item value="In multiuser systems shows only on the owning user ' s window ." />
       <item value="owning" />
@@ -48,9 +51,6 @@
       <item value="antialias" />
       <item value="Alias" />
       <item value="MICRO" />
-      <item value="payload" />
-      <item value="Range" />
-      <item value="resulet" />
     </histories>
   </component>
 </application>
