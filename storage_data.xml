@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sprite Batch" />
       <item value="Texture" />
       <item value="Emitter" />
       <item value="Particle" />
@@ -50,7 +51,6 @@
       <item value="The stroke projects out as a square , with the center at the end of the path" />
       <item value="project" />
       <item value="hierarchy" />
-      <item value="antialias" />
     </histories>
   </component>
 </application>
