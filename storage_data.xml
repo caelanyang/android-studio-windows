@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="erase" />
       <item value="REVERSE" />
       <item value="Sprite Batch" />
       <item value="Texture" />
@@ -50,7 +51,6 @@
       <item value="BUTT" />
       <item value="The stroke projects out as a square , with the center at the end of the path" />
       <item value="project" />
-      <item value="hierarchy" />
     </histories>
   </component>
 </application>
