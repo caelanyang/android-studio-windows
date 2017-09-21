@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interpolator" />
       <item value="evaluate" />
       <item value="vacant" />
       <item value="erase" />
@@ -50,7 +51,6 @@
       <item value="degrees" />
       <item value="The stroke ends with the path , and does not project beyond it ." />
       <item value="SQUARE" />
-      <item value="BUTT" />
     </histories>
   </component>
 </application>
