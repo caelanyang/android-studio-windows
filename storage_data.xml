@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sender" />
       <item value="Vacant" />
       <item value="Parcel" />
       <item value="corresponds" />
@@ -35,7 +36,6 @@
       <item value="obtain" />
       <item value="Opaque" />
       <item value="heads - up" />
-      <item value="sender" />
       <item value="Blur" />
       <item value="Cur Aspect" />
       <item value="Aspect" />
