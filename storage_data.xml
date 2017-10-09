@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vacant" />
       <item value="Parcel" />
       <item value="corresponds" />
       <item value="anchor" />
@@ -50,7 +51,6 @@
       <item value="pixels" />
       <item value="dest" />
       <item value="Patter" />
-      <item value="coordinate" />
     </histories>
   </component>
 </application>
