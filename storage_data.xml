@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parcel" />
+      <item value="corresponds" />
       <item value="anchor" />
       <item value="retrieving" />
       <item value="Interpolator" />
@@ -46,11 +48,9 @@
       <item value="shadowed" />
       <item value="vending" />
       <item value="pixels" />
-      <item value="Parcel" />
       <item value="dest" />
       <item value="Patter" />
       <item value="coordinate" />
-      <item value="degrees" />
     </histories>
   </component>
 </application>
