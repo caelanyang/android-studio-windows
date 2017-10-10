@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="registration" />
       <item value="sender" />
       <item value="Vacant" />
       <item value="Parcel" />
@@ -50,7 +51,6 @@
       <item value="vending" />
       <item value="pixels" />
       <item value="dest" />
-      <item value="Patter" />
     </histories>
   </component>
 </application>
