@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="track" />
+      <item value="trace" />
       <item value="Stamp" />
       <item value="registration" />
       <item value="sender" />
@@ -49,8 +51,6 @@
       <item value="Pattern" />
       <item value="companion" />
       <item value="shadowed" />
-      <item value="vending" />
-      <item value="pixels" />
     </histories>
   </component>
 </application>
