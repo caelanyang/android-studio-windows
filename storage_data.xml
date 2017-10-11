@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="economy" />
       <item value="track" />
       <item value="trace" />
       <item value="Stamp" />
@@ -50,7 +51,6 @@
       <item value="Subscribe" />
       <item value="Pattern" />
       <item value="companion" />
-      <item value="shadowed" />
     </histories>
   </component>
 </application>
