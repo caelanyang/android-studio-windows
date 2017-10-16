@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authority" />
       <item value="immutable" />
       <item value="economy" />
       <item value="track" />
@@ -50,7 +51,6 @@
       <item value="LOOPME" />
       <item value="DANDELION" />
       <item value="Subscribe" />
-      <item value="Pattern" />
     </histories>
   </component>
 </application>
