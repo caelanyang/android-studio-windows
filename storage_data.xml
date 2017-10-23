@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OVER SCROLL NEVER" />
+      <item value="over - scroll" />
+      <item value="over" />
       <item value="Authority" />
       <item value="immutable" />
       <item value="economy" />
@@ -48,9 +51,6 @@
       <item value="Aspect" />
       <item value="m Apply Aspect" />
       <item value="balloon" />
-      <item value="LOOPME" />
-      <item value="DANDELION" />
-      <item value="Subscribe" />
     </histories>
   </component>
 </application>
