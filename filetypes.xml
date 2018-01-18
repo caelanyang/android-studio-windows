@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mp4" type="Native" />
-      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="dia" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
     </extensionMap>
