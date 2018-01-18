@@ -1,8 +1,9 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="hkvpn.3g.net.cn" />
-    <option name="PROXY_PORT" value="37853" />
-    <option name="PROXY_AUTHENTICATION" value="true" />
-    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="s2.agent02.net" />
+    <option name="PROXY_PORT" value="47583" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="https://agentwho.rocks/vvMWsxP.pac" />
   </component>
 </application>

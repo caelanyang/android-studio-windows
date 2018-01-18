@@ -1,4 +1,4 @@
 /**
- * Created by yangjiacheng on ${DATE}.
+ * Created by ${USER} on ${DATE}.
  * ...
  */
