@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Award" />
       <item value="Vacant" />
       <item value="the value of the represented field in object" />
       <item value="configure" />
@@ -50,7 +51,6 @@
       <item value="collapse" />
       <item value="Tablet" />
       <item value="decor" />
-      <item value="Spinner" />
     </histories>
   </component>
 </application>
