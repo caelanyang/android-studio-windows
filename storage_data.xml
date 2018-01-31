@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="associates" />
+      <item value="FIND POTENTIAL LEAKS" />
       <item value="pump" />
       <item value="Award" />
       <item value="Vacant" />
@@ -49,8 +51,6 @@
       <item value="MOUNTED" />
       <item value="Anchor" />
       <item value="Compat" />
-      <item value="collapse" />
-      <item value="Tablet" />
     </histories>
   </component>
 </application>
