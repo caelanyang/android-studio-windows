@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tick" />
       <item value="associates" />
       <item value="FIND POTENTIAL LEAKS" />
       <item value="pump" />
@@ -50,7 +51,6 @@
       <item value="grant" />
       <item value="MOUNTED" />
       <item value="Anchor" />
-      <item value="Compat" />
     </histories>
   </component>
 </application>
