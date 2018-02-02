@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instrumentation" />
+      <item value="Base class for implementing application instrumentation code" />
       <item value="tick" />
       <item value="associates" />
       <item value="FIND POTENTIAL LEAKS" />
@@ -49,8 +51,6 @@
       <item value="Inflate" />
       <item value="If set , the recipient of this Intent will be granted permission to perform write operations on the URI in the Intent ' s data and any UR Is specified in its Clip Data . When applying to an Intent ' s Clip Data , all UR Is as well as recursive traversals through data or other Clip Data in Intent items will be granted ; only the grant flags of the top - level Intent are used ." />
       <item value="grant" />
-      <item value="MOUNTED" />
-      <item value="Anchor" />
     </histories>
   </component>
 </application>
