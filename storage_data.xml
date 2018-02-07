@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecation" />
+      <item value="Context could be null for other reasons" />
+      <item value="ie" />
+      <item value="Contains common assertions" />
+      <item value="Preconditions" />
+      <item value="Retriever" />
       <item value="retrieves" />
       <item value="Thumbnail" />
       <item value="Fetcher" />
@@ -45,12 +51,6 @@
       <item value="Obtain a drawable for the built - in static system wallpaper ." />
       <item value="built - in" />
       <item value="Remove all internal references to the last loaded wallpaper . Useful for apps that want to reduce memory usage when they only temporarily need to have the wallpaper . After calling , the next request for the wallpaper will require reloading it again from disk ." />
-      <item value="Intercept Touch" />
-      <item value="compat" />
-      <item value="Repository" />
-      <item value="Grow" />
-      <item value="aspectX" />
-      <item value="aspect" />
     </histories>
   </component>
 </application>
