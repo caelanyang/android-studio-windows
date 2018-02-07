@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Like {@ link # commit } but allows the commit to be executed after an activity ' s state is saved . This is dangerous because the commit can be lost if the activity needs to later be restored from its state , so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user ." />
+      <item value="Snapshot" />
+      <item value="Snap" />
+      <item value="Returns a copy of the given list that is safe to iterate over and perform actions that may modify the original list ." />
+      <item value="Factor out this Glide . get () call ." />
       <item value="deprecation" />
       <item value="Context could be null for other reasons" />
       <item value="ie" />
@@ -46,11 +51,6 @@
       <item value="Enqueue" />
       <item value="overhead" />
       <item value="but the returned Drawable has a number of limitations to reduce its overhead as much as possible . It will never scale the wallpaper ( only centering it if the requested bounds do match the bitmap bounds , which should not be typical ), doesn ' t allow setting an alpha , color filter , or other attributes , etc . The bounds of the returned drawable will be initialized to the same bounds as the wallpaper , so normally you will not need to touch it . The drawable also assumes that it will be used in a context running in the same density as the screen ( not in density compatibility mode )." />
-      <item value="left - aligned" />
-      <item value="scale the wallpaper down rather than just cropping it" />
-      <item value="Obtain a drawable for the built - in static system wallpaper ." />
-      <item value="built - in" />
-      <item value="Remove all internal references to the last loaded wallpaper . Useful for apps that want to reduce memory usage when they only temporarily need to have the wallpaper . After calling , the next request for the wallpaper will require reloading it again from disk ." />
     </histories>
   </component>
 </application>
