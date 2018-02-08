@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hint" />
       <item value="Like {@ link # commit } but allows the commit to be executed after an activity ' s state is saved . This is dangerous because the commit can be lost if the activity needs to later be restored from its state , so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user ." />
       <item value="Snapshot" />
       <item value="Snap" />
@@ -50,7 +51,6 @@
       <item value="segment" />
       <item value="Enqueue" />
       <item value="overhead" />
-      <item value="but the returned Drawable has a number of limitations to reduce its overhead as much as possible . It will never scale the wallpaper ( only centering it if the requested bounds do match the bitmap bounds , which should not be typical ), doesn ' t allow setting an alpha , color filter , or other attributes , etc . The bounds of the returned drawable will be initialized to the same bounds as the wallpaper , so normally you will not need to touch it . The drawable also assumes that it will be used in a context running in the same density as the screen ( not in density compatibility mode )." />
     </histories>
   </component>
 </application>
