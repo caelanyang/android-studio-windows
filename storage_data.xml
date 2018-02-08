@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Equivalent" />
       <item value="Hint" />
       <item value="Like {@ link # commit } but allows the commit to be executed after an activity ' s state is saved . This is dangerous because the commit can be lost if the activity needs to later be restored from its state , so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user ." />
       <item value="Snapshot" />
@@ -50,7 +51,6 @@
       <item value="radix" />
       <item value="segment" />
       <item value="Enqueue" />
-      <item value="overhead" />
     </histories>
   </component>
 </application>
