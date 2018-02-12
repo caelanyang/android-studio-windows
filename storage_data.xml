@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specific" />
       <item value="animatable" />
       <item value="Equivalent" />
       <item value="Hint" />
@@ -50,7 +51,6 @@
       <item value="enqueue" />
       <item value="digits" />
       <item value="radix" />
-      <item value="segment" />
     </histories>
   </component>
 </application>
