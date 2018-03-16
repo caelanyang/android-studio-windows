@@ -4,7 +4,7 @@
     <property name="created">2017-08-09T15:37:03</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.8</property>
-    <property name="modified">2018-03-16T11:20:05</property>
+    <property name="modified">2018-03-16T11:35:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -14,9 +14,24 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="68b5ee" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
@@ -47,6 +62,11 @@
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffbb33" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
   </attributes>
