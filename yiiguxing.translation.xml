@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="health" />
       <item value="Flag for {@link #bindService}: indicates that the client application * binding to this service considers the service to be more important than * the app itself. When set, the platform will try to have the out of * memory killer kill the app before it kills the service it is bound to, though * this is not guaranteed to be the case." />
       <item value="Stub" />
       <item value="iab" />
