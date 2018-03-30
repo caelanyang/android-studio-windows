@@ -2,8 +2,8 @@
   <component name="KeysManager">
     <TeamManager />
     <ApiKey>729e96ad70c109f8b336e30e92cfa1f8</ApiKey>
-    <ApkFilePath>F:/yangjiacheng/developer/gomo/ThemeMaker/app/app-release.apk</ApkFilePath>
-    <MD5>fe421ed8ad363c364137c65859422ee5</MD5>
+    <ApkFilePath>F:/yangjiacheng/developer/gomo/ThemeMaker/app/release/app-release.apk</ApkFilePath>
+    <MD5>5aa9f248a5c95a43a3f625a702e7968c</MD5>
     <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
     <FLAG>cancel</FLAG>
     <SelectedModuleName>GOLauncherZ</SelectedModuleName>
