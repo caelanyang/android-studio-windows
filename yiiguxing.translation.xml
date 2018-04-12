@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="true if the callback consumed the long click, false otherwise." />
       <item value="obsolete" />
       <item value="aspect" />
       <item value="Mall" />
