@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="If two objects are equal according to the {@code equals(Object)} * method, then calling the {@code hashCode} method on each of * the two objects must produce the same integer result." />
+      <item value="Whenever it is invoked on the same object more than once during * an execution of a Java application, the {@code hashCode} method * must consistently return the same integer, provided no information * used in {@code equals} comparisons on the object is modified. * This integer need not remain consistent from one execution of an * application to another execution of the same application." />
+      <item value="Whenever it is invoked on the same object more than once during * an execution of a Java application, the {@code hashCode} method * must consistently return the same integer, provided no information * used in {@code equals} comparisons on the object is modified. * This integer need not remain consistent from one execution of an * application to another execution of the same application. * &lt;li&gt;If two objects are equal according to the {@code equals(Object)} * method, then calling the {@code hashCode} method on each of * the two objects must produce the same integer result. * &lt;li&gt;It is &lt;em&gt;not&lt;/em&gt; required that if two objects are unequal * according to the {@link java.lang.Object#equals(java.lang.Object)} * method, then calling the {@code hashCode} method on each of the * two objects must produce distinct integer results. However, the * programmer should be aware that producing distinct integer results * for unequal objects may improve the performance of hash tables." />
       <item value="true if the callback consumed the long click, false otherwise." />
       <item value="obsolete" />
       <item value="aspect" />
