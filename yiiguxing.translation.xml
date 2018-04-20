@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="标签" />
       <item value="data Source" />
       <item value="set Data Source" />
       <item value="Context" />
