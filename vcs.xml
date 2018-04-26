@@ -70,9 +70,13 @@
           <option name="url" value="https://caelanyang@bitbucket.org/caelanyang/sodium.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wl9739/UITransitionDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\yangjiacheng\workspace\personal" />
+    <option name="cloneParentDir" value="F:\yangjiacheng\workspace\fromGithub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
