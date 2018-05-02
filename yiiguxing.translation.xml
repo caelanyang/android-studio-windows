@@ -1,8 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The RecycleBin facilitates reuse of views across layouts. The RecycleBin has two levels of * storage: ActiveViews and ScrapViews. ActiveViews are those views which were onscreen at the * start of a layout. By construction, they are displaying current information. At the end of * layout, all views in ActiveViews are demoted to ScrapViews. ScrapViews are old views that * could potentially be used by the adapter to avoid allocating views unnecessarily." />
       <item value="Glide" />
       <item value="collapsed" />
       <item value="Constraint" />
