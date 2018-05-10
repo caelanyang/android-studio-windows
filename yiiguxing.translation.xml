@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="横向" />
+      <item value="uv" />
+      <item value="竖向" />
       <item value="PERSONALIZED" />
       <item value="hint" />
       <item value="HOST FORMAL" />
