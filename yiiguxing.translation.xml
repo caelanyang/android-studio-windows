@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="滑动" />
+      <item value="滚动" />
       <item value="横向" />
       <item value="uv" />
       <item value="竖向" />
