@@ -4,7 +4,7 @@
     <property name="created">2017-08-09T15:37:03</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.8</property>
-    <property name="modified">2018-05-08T15:53:37</property>
+    <property name="modified">2018-05-11T18:31:49</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -35,7 +35,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="4a738c" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
