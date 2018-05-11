@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Anomaly" />
+      <item value="consent" />
+      <item value="withdraw" />
+      <item value="priority" />
+      <item value="utmost" />
       <item value="restricted" />
       <item value="用户协议" />
       <item value="滑动" />
@@ -46,9 +51,6 @@
       <item value="forwards" />
       <item value="health" />
       <item value="Flag for {@link #bindService}: indicates that the client application * binding to this service considers the service to be more important than * the app itself. When set, the platform will try to have the out of * memory killer kill the app before it kills the service it is bound to, though * this is not guaranteed to be the case." />
-      <item value="Stub" />
-      <item value="iab" />
-      <item value="Relative Layout" />
     </histories>
   </component>
 </application>
