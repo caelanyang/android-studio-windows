@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="横向" />
       <item value="竖向" />
       <item value="Anomaly" />
       <item value="consent" />
@@ -11,7 +12,6 @@
       <item value="用户协议" />
       <item value="滑动" />
       <item value="滚动" />
-      <item value="横向" />
       <item value="uv" />
       <item value="PERSONALIZED" />
       <item value="hint" />
