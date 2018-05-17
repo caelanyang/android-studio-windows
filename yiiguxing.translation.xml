@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verrouillage de Launcher" />
       <item value="横向" />
       <item value="竖向" />
       <item value="Anomaly" />
@@ -50,7 +51,6 @@
       <item value="populate" />
       <item value="forwards" />
       <item value="health" />
-      <item value="Flag for {@link #bindService}: indicates that the client application * binding to this service considers the service to be more important than * the app itself. When set, the platform will try to have the out of * memory killer kill the app before it kills the service it is bound to, though * this is not guaranteed to be the case." />
     </histories>
   </component>
 </application>
