@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="können Sie die &quot;Datenberechtigung&quot; in der App-Einstellung schließen" />
+      <item value="App-Einstellung schließen" />
+      <item value="Datenberechtigung&quot; in der App-Einstellung schließen" />
+      <item value="in der Launcher-Einstellung schließen" />
+      <item value="GO лончер" />
+      <item value="लांचर" />
+      <item value="GO लांचर का उपयोग नहीं कर" />
+      <item value="ولكن لاحقًا، إذا كنت تريد إغلاق الإذن، يمكنك إغلاق &quot;إذن البيانات&quot; في إعداد App." />
+      <item value="ولكن لاحقًا، إذا كنت تريد إغلاق الإذن، يمكنك إغلاق &quot;إذن البيانات&quot; في إعداد Launcher." />
+      <item value="Launcher 설정에서 \'데이터 권한\'을 종료하시면 됩니다" />
+      <item value="런처를" />
+      <item value="GO 런처를 관심을 주시며, 저희 만든 것을 알고 계셔서 즉시 피드백을 하시면 좋겠습니다" />
+      <item value="앱 활성화 실패! HD Wallpaper 재실행해 주세요" />
+      <item value="앱 활성화 실패! GO런처를 재실행해 주세요" />
+      <item value="GO 런처를" />
       <item value="Verrouillage de Launcher" />
       <item value="横向" />
       <item value="竖向" />
@@ -36,21 +51,6 @@
       <item value="Super Adapter" />
       <item value="Item Binder" />
       <item value="with" />
-      <item value="If two objects are equal according to the {@code equals(Object)} * method, then calling the {@code hashCode} method on each of * the two objects must produce the same integer result." />
-      <item value="Whenever it is invoked on the same object more than once during * an execution of a Java application, the {@code hashCode} method * must consistently return the same integer, provided no information * used in {@code equals} comparisons on the object is modified. * This integer need not remain consistent from one execution of an * application to another execution of the same application." />
-      <item value="Whenever it is invoked on the same object more than once during * an execution of a Java application, the {@code hashCode} method * must consistently return the same integer, provided no information * used in {@code equals} comparisons on the object is modified. * This integer need not remain consistent from one execution of an * application to another execution of the same application. * &lt;li&gt;If two objects are equal according to the {@code equals(Object)} * method, then calling the {@code hashCode} method on each of * the two objects must produce the same integer result. * &lt;li&gt;It is &lt;em&gt;not&lt;/em&gt; required that if two objects are unequal * according to the {@link java.lang.Object#equals(java.lang.Object)} * method, then calling the {@code hashCode} method on each of the * two objects must produce distinct integer results. However, the * programmer should be aware that producing distinct integer results * for unequal objects may improve the performance of hash tables." />
-      <item value="true if the callback consumed the long click, false otherwise." />
-      <item value="obsolete" />
-      <item value="aspect" />
-      <item value="Mall" />
-      <item value="statistics" />
-      <item value="统计" />
-      <item value="audience" />
-      <item value="representing" />
-      <item value="integrate" />
-      <item value="populate" />
-      <item value="forwards" />
-      <item value="health" />
     </histories>
   </component>
 </application>
