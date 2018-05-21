@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="يوفر لك GO Launcher تجربة مثالية للمنتج." />
+      <item value="وتجربة إعلانية مخصصة" />
+      <item value="إعلانية مخصصة" />
+      <item value="يوفر لك GO Launcher تجربة مثالية للمنتج وتجربة إعلانية مخصصة" />
+      <item value="أمان معلوماتك يعد أولوية قصوى لدينا" />
       <item value="können Sie die &quot;Datenberechtigung&quot; in der App-Einstellung schließen" />
       <item value="App-Einstellung schließen" />
       <item value="Datenberechtigung&quot; in der App-Einstellung schließen" />
@@ -46,11 +51,6 @@
       <item value="标签" />
       <item value="data Source" />
       <item value="set Data Source" />
-      <item value="Context" />
-      <item value="Super View Holder" />
-      <item value="Super Adapter" />
-      <item value="Item Binder" />
-      <item value="with" />
     </histories>
   </component>
 </application>
