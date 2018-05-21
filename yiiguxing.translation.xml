@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="персонализированное" />
       <item value="يوفر لك GO Launcher تجربة مثالية للمنتج." />
       <item value="وتجربة إعلانية مخصصة" />
       <item value="إعلانية مخصصة" />
@@ -50,7 +51,6 @@
       <item value="canvas" />
       <item value="标签" />
       <item value="data Source" />
-      <item value="set Data Source" />
     </histories>
   </component>
 </application>
