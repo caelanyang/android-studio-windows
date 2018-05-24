@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="इससे सहमत हो कर आप यह पुष्टि करते हैं कि आपकी आयु 16 वर्ष से अधिक है और आप व्यक्तिगत उत्पाद अनुभव पसंद करेंगे हैं।" />
+      <item value="यदि आप और अदिक जानना चाहते है तो कृपया हमारी %1$s पढ़ें।" />
+      <item value="हैं। यदि आप और अदिक जानना चाहते है तो कृपया हमारी %1$s पढ़ें।" />
+      <item value="पसंद करेंगे हैं। यदि आप और अदिक जानना चाहते है तो कृपया हमारी %1$s पढ़ें।" />
+      <item value="इससे सहमत हो कर आप यह पुष्टि करते हैं कि आपकी आयु 16 वर्ष से अधिक है और आप व्यक्तिगत उत्पाद अनुभव" />
+      <item value="بالموافقة ، فأنت تؤكد على رغبتك في الحصول على تجرب مخصصة للمنتج ومساعدتنا في تحسين أداء هذا التطبيق." />
+      <item value="بالموافقة ، فأنت تؤكد أنك تجاوزت 16 عامًا وترغب في الحصول على تجربة منتج مخصصة." />
+      <item value="يوفر لك GO Launcher تجربة مثالية للمنتج. أمان معلوماتك يعد أولوية قصوى لدينا، ويتخذ فريق تطوير" />
+      <item value="إجراءات صارمة لحماية البيانات من إمكانية الوصول غير المصرح به إلى البيانات أو استخدامها أو الكشف عنها أو إتلافها." />
+      <item value="Durch Ihre Zustimmung bestätigen Sie, dass Sie ein personalisiertes Produkterlebnis wünschen und uns beim Verbessern der App-Leistung helfen wollen" />
+      <item value="고객님은 동의함으로써 본인이 16세 이상이며 개인 맞춤형 제품 경험을 원한다고 확인하시는 겁니다." />
       <item value="3D Launcher vous apporte une expérience opérationnelle extrêmement rapide et sécurisée" />
       <item value="персонализированное" />
       <item value="يوفر لك GO Launcher تجربة مثالية للمنتج." />
@@ -40,17 +51,6 @@
       <item value="hint" />
       <item value="HOST FORMAL" />
       <item value="服务器" />
-      <item value="HOST" />
-      <item value="描述" />
-      <item value="Scrim" />
-      <item value="opacity" />
-      <item value="op" />
-      <item value="The RecycleBin facilitates reuse of views across layouts. The RecycleBin has two levels of * storage: ActiveViews and ScrapViews. ActiveViews are those views which were onscreen at the * start of a layout. By construction, they are displaying current information. At the end of * layout, all views in ActiveViews are demoted to ScrapViews. ScrapViews are old views that * could potentially be used by the adapter to avoid allocating views unnecessarily." />
-      <item value="Glide" />
-      <item value="collapsed" />
-      <item value="Constraint" />
-      <item value="canvas" />
-      <item value="标签" />
     </histories>
   </component>
 </application>
