@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="예" />
+      <item value="Ja" />
+      <item value="Sim" />
+      <item value="S í" />
+      <item value="हांै" />
+      <item value="نعم" />
+      <item value="رفض الاستخدام" />
+      <item value="أنا موافق" />
+      <item value="Estoy de acuerdo" />
+      <item value="사용 거부" />
+      <item value="나는 동의한다" />
       <item value="Wir versprechen Ihnen, Ihre Privatsphäre zu respektieren. Es werden keine Daten für illegale Aktivitäten genutzt. Dies alles wird getan, um Ihnen ein besseres Nutzererlebnis bieten zu Können" />
       <item value="K ö nnen" />
       <item value="Sem a permissão para uso de dados, o app não pode ser executado" />
@@ -40,17 +51,6 @@
       <item value="Verrouillage de Launcher" />
       <item value="横向" />
       <item value="竖向" />
-      <item value="Anomaly" />
-      <item value="consent" />
-      <item value="withdraw" />
-      <item value="priority" />
-      <item value="utmost" />
-      <item value="restricted" />
-      <item value="用户协议" />
-      <item value="滑动" />
-      <item value="滚动" />
-      <item value="uv" />
-      <item value="PERSONALIZED" />
     </histories>
   </component>
 </application>
