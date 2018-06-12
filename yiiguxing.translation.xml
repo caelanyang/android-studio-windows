@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="개인정보 처리방침" />
+      <item value="자세한 내용은 %1$s 참조" />
+      <item value="개인 정보 보호 정책" />
+      <item value="자세한 내용은" />
+      <item value="개인 정보 보호 정책 참조" />
+      <item value="Política de Privacidade" />
+      <item value="Política de privacidad" />
+      <item value="политике конфиденциальности" />
+      <item value="Политикой конфиденциальности" />
+      <item value="में अधिक देखें" />
+      <item value="गोपनीयता नीति" />
+      <item value="حذف جميع البيانات&lt;" />
+      <item value="कृपया जारी रखे" />
+      <item value="Пожалуйста, продолжайте" />
+      <item value="Alle Daten lösche" />
+      <item value="Supprimer toutes les donnée" />
+      <item value="S\'il vous plaît continuer" />
+      <item value="계속하십시오" />
       <item value="예" />
       <item value="Ja" />
       <item value="Sim" />
@@ -33,24 +51,6 @@
       <item value="إعلانية مخصصة" />
       <item value="يوفر لك GO Launcher تجربة مثالية للمنتج وتجربة إعلانية مخصصة" />
       <item value="أمان معلوماتك يعد أولوية قصوى لدينا" />
-      <item value="können Sie die &quot;Datenberechtigung&quot; in der App-Einstellung schließen" />
-      <item value="App-Einstellung schließen" />
-      <item value="Datenberechtigung&quot; in der App-Einstellung schließen" />
-      <item value="in der Launcher-Einstellung schließen" />
-      <item value="GO лончер" />
-      <item value="लांचर" />
-      <item value="GO लांचर का उपयोग नहीं कर" />
-      <item value="ولكن لاحقًا، إذا كنت تريد إغلاق الإذن، يمكنك إغلاق &quot;إذن البيانات&quot; في إعداد App." />
-      <item value="ولكن لاحقًا، إذا كنت تريد إغلاق الإذن، يمكنك إغلاق &quot;إذن البيانات&quot; في إعداد Launcher." />
-      <item value="Launcher 설정에서 \'데이터 권한\'을 종료하시면 됩니다" />
-      <item value="런처를" />
-      <item value="GO 런처를 관심을 주시며, 저희 만든 것을 알고 계셔서 즉시 피드백을 하시면 좋겠습니다" />
-      <item value="앱 활성화 실패! HD Wallpaper 재실행해 주세요" />
-      <item value="앱 활성화 실패! GO런처를 재실행해 주세요" />
-      <item value="GO 런처를" />
-      <item value="Verrouillage de Launcher" />
-      <item value="横向" />
-      <item value="竖向" />
     </histories>
   </component>
 </application>
