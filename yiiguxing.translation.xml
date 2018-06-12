@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wir versprechen Ihnen, Ihre Privatsphäre zu respektieren. Es werden keine Daten für illegale Aktivitäten genutzt. Dies alles wird getan, um Ihnen ein besseres Nutzererlebnis bieten zu Können" />
+      <item value="K ö nnen" />
       <item value="Sem a permissão para uso de dados, o app não pode ser executado" />
       <item value="इससे सहमत हो कर आप यह पुष्टि करते हैं कि आपकी आयु 16 वर्ष से अधिक है और आप व्यक्तिगत उत्पाद अनुभव पसंद करेंगे हैं।" />
       <item value="यदि आप और अदिक जानना चाहते है तो कृपया हमारी %1$s पढ़ें।" />
@@ -49,8 +51,6 @@
       <item value="滚动" />
       <item value="uv" />
       <item value="PERSONALIZED" />
-      <item value="hint" />
-      <item value="HOST FORMAL" />
     </histories>
   </component>
 </application>
